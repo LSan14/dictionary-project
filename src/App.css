@@ -1,3 +1,11 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App .App-header {
+  font-size: 45px;
+}
+
 .App header {
   text-align: center;
   font-size: 30px;
