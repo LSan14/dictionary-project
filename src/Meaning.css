@@ -1,3 +1,11 @@
 .Meaning h3 {
-  color: rgb(142, 62, 62);
+  color: rgb(14, 7, 111);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.Meaning .example {
+  color: #70757a;
+  font-style: italic;
+  margin-top: 10px;
 }
