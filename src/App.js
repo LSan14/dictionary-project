@@ -10,7 +10,11 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="text-center">
-          Coded by Lizeth Sandoval Valladares
+          <a href="https://github.com/LSan14/dictionary-project.git">
+            {" "}
+            Open Source
+          </a>{" "}
+          by Lizeth Sandoval Valladares
         </footer>
       </div>
     </div>
